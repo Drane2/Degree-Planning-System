@@ -13,7 +13,7 @@
 using namespace std;
 
 string newl = "\n";            // for newlines
-string typenum = "\n> "; // prompt for choosing a feature
+string typenum = "\n> ";       // prompt for choosing a feature
 
 void chooseOption(int x, int y)
 {
