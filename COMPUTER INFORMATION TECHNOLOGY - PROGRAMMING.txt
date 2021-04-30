@@ -1,0 +1,24 @@
+COMPUTER INFORMATION TECHNOLOGY - PROGRAMMING
+CERTIFICATE
+
+=========================================================
+First Semester					Credits
+=========================================================
+BCIS 1305 - Business Computer Applications	3
+ITNW 1325 - Fundamentals of Networking		3
+ITNW 1358 - Network+				3
+ITSE 1407 - Introduction C++ Programming	4
+ITSE 1431 - Introduction to Visual BASIC Programming 4
+
+==========================================================
+Second Semester					Credits
+==========================================================
+ITSE 2337 – Assembly Language Programming	3
+IMED 2415 – Web Design II			4
+ITSE 2417 – Java Programming			4
+ITSW 1404 – Introduction to Spreadsheets	4
+
+==========================================================
+COMPUTER INFORMATION TECHNOLOGY - PROGRAMMING 
+CERTIFICATE – CREDIT HOURS			32
+==========================================================

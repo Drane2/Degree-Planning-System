@@ -1,0 +1,23 @@
+COMPUTER INFORMATION TECHNOLOGY - NETWORKING
+CERTIFICATE 
+
+==========================================================
+First Semester					Credits
+==========================================================
+BCIS 1305 - Business Computer Applications	3
+ITMT 1358 - Windows Client Operating System	3
+ITNW 1325 - Fundamentals of Networking		3
+ITNW 1358 - Network+				3
+
+==========================================================
+Second Semester					Credits
+==========================================================
+ITMT 2301 - Windows Server 2008 Network		   3
+ITMT 2302 - Windows Server 2008 AD Configuration   3
+ITMT 1357 - Administering Windows Operating System 3
+ITNW 1313 - Computer Virtualization		   3
+
+==========================================================
+COMPUTER INFORMATION TECHNOLOGY - NETWORKING 
+CERTIFICATE – CREDIT HOURS			24
+==========================================================
