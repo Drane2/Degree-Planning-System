@@ -1,0 +1,31 @@
+CIT, Network Administration Cisco Specialty,
+Certificate of Technology
+
+====================================================================
+First Semester						Credits
+====================================================================
+ITSC 1305 - Introduction to PC Operating Systems	3
+ITSC 1309 - Integrated Software Applications I		3
+ITCC 1314 - CCNA 1: Introduction to Networks		3
+ITSC 1325 - Personal Computer Hardware			3
+
+====================================================================
+Second Semester						Credits
+====================================================================
+ITCC 1440 - CCNA 2: Routing and Switching Essentials	4
+ITSC 1321 - Intermediate PC Operating Systems		3
+ITNW 1354 - Implementing and Supporting Servers		3
+ITSW 1307 - Introduction to Database			3
+
+====================================================================
+Third Semester						Credits
+====================================================================
+ITCC 2412 - CCNA 3: Scaling Networks			4
+ITCC 2413 - CCNA 4: Connecting Networks			4
+ITSE 1329 - Programming Logic and Design		3
+
+====================================================================
+CIT, Network Administration Cisco Specialty,
+Certificate of Technology 				36
+====================================================================
+	

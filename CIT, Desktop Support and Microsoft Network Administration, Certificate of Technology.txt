@@ -1,0 +1,31 @@
+CIT, Desktop Support and Microsoft Network Administration, 
+Certificate of Technology
+
+==========================================================
+First Semester					Credits
+==========================================================
+ITSC 1305 - Introduction to PC Operating Systems    3
+ITSC 1309 - Integrated Software Applications I      3
+ITNW 1325 - Fundamentals of Networking Technologies 3
+ITSE 1329 - Programming Logic and Design	    3
+
+==========================================================
+Second Semester					Credits
+==========================================================
+ITSC 1325 - Personal Computer Hardware		    3
+ITNW 1354 - Implementing and Supporting Servers     3
+ITSC 2339 - Personal Computer Help Desk		    3
+ITSW 1307 - Introduction to Database		    3
+
+===========================================================
+Third Semester					Credits
+===========================================================
+ITNW 1313 - Computer Virtualization		       3
+ITSY 1342 - Information Technology Security	       3  
+ITSC 1321 - Intermediate PC Operating Systems	       3
+ITSC 2364 - Computer and Information Sciences, General 3
+
+==========================================================
+CIT, Desktop Support and Microsoft Network Administration, 
+Certificate of Technology				36
+===========================================================

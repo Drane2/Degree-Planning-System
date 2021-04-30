@@ -1,0 +1,30 @@
+CIT, Information Technology Cyber Security Specialty,
+Certificate of Technology
+
+====================================================================
+Fisrt Semseter						Credits
+====================================================================
+ITSC 1305 - Introduction to PC Operating Systems	3
+ITSC 1309 - Integrated Software Applications I		3
+ITCC 1314 - CCNA 1: Introduction to Networks		3
+ITSY 1342 - Information Technology Security		3
+
+====================================================================
+Second Semester						Credits
+====================================================================
+ITNW 1354 - Implementing and Supporting Servers		3
+ITSC 1307 - UNIX Operating System I			3
+ITSE 1329 - Programming Logic and Design		3
+ITSY 2300 - Operating System Security			3
+
+====================================================================
+Third Semester						Credits
+====================================================================
+ITSY 2301 - Firewalls and Network Security		3
+ITSY 2341 - Security Management Practices		3
+ITSW 1307 - Introduction to Database			3
+
+====================================================================
+CIT, Information Technology Cyber Security Specialty,
+Certificate of Technology				33
+====================================================================

@@ -1,0 +1,17 @@
+CIT, Introductory Game Design and Development,
+Occupational Certificate
+
+====================================================================
+First Semester						Credits
+====================================================================
+GAME 1304 - Level Design				3
+GAME 1303 - Introduction to Game Design and Development 3
+ITSE 1307 - Introduction to C++ Programming		3
+ITSE 1329 - Programming Logic and Design		3
+IMED 1341 - Interface Design with Photoshop		3
+GAME 2332 - Project Development I			3
+
+====================================================================
+CIT, Introductory Game Design and Development,
+Occupational Certificate				18
+====================================================================
