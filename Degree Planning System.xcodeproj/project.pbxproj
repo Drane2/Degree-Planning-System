@@ -25,6 +25,13 @@
 /* Begin PBXFileReference section */
 		002723432639036000678765 /* Degree Planning System */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Degree Planning System"; sourceTree = BUILT_PRODUCTS_DIR; };
 		002723462639036000678765 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		00869D50263F40A3001E8401 /* CIT, Network Administration Cisco Specialty, Certificate of Technology.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "CIT, Network Administration Cisco Specialty, Certificate of Technology.txt"; path = "Build/Files/CIT, Network Administration Cisco Specialty, Certificate of Technology.txt"; sourceTree = SOURCE_ROOT; };
+		00869D51263F40A3001E8401 /* students.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = students.txt; path = Build/Files/students.txt; sourceTree = SOURCE_ROOT; };
+		00869D52263F40A4001E8401 /* COMPUTER INFORMATION TECHNOLOGY - PROGRAMMING.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "COMPUTER INFORMATION TECHNOLOGY - PROGRAMMING.txt"; path = "Build/Files/COMPUTER INFORMATION TECHNOLOGY - PROGRAMMING.txt"; sourceTree = SOURCE_ROOT; };
+		00869D53263F40A4001E8401 /* COMPUTER INFORMATION TECHNOLOGY - NETWORKING.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "COMPUTER INFORMATION TECHNOLOGY - NETWORKING.txt"; path = "Build/Files/COMPUTER INFORMATION TECHNOLOGY - NETWORKING.txt"; sourceTree = SOURCE_ROOT; };
+		00869D54263F40A4001E8401 /* CIT, Desktop Support and Microsoft Network Administration, Certificate of Technology.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "CIT, Desktop Support and Microsoft Network Administration, Certificate of Technology.txt"; path = "Build/Files/CIT, Desktop Support and Microsoft Network Administration, Certificate of Technology.txt"; sourceTree = SOURCE_ROOT; };
+		00869D55263F40A4001E8401 /* CIT, Introductory Game Design and Development, Occupational Certificate.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "CIT, Introductory Game Design and Development, Occupational Certificate.txt"; path = "Build/Files/CIT, Introductory Game Design and Development, Occupational Certificate.txt"; sourceTree = SOURCE_ROOT; };
+		00869D56263F40A4001E8401 /* CIT, Information Technology Cyber Security Specialty, Certificate of Technology.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "CIT, Information Technology Cyber Security Specialty, Certificate of Technology.txt"; path = "Build/Files/CIT, Information Technology Cyber Security Specialty, Certificate of Technology.txt"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +64,13 @@
 		002723452639036000678765 /* Degree Planning System */ = {
 			isa = PBXGroup;
 			children = (
+				00869D54263F40A4001E8401 /* CIT, Desktop Support and Microsoft Network Administration, Certificate of Technology.txt */,
+				00869D56263F40A4001E8401 /* CIT, Information Technology Cyber Security Specialty, Certificate of Technology.txt */,
+				00869D55263F40A4001E8401 /* CIT, Introductory Game Design and Development, Occupational Certificate.txt */,
+				00869D50263F40A3001E8401 /* CIT, Network Administration Cisco Specialty, Certificate of Technology.txt */,
+				00869D53263F40A4001E8401 /* COMPUTER INFORMATION TECHNOLOGY - NETWORKING.txt */,
+				00869D52263F40A4001E8401 /* COMPUTER INFORMATION TECHNOLOGY - PROGRAMMING.txt */,
+				00869D51263F40A3001E8401 /* students.txt */,
 				002723462639036000678765 /* main.cpp */,
 			);
 			path = "Degree Planning System";
