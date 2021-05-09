@@ -1,0 +1,31 @@
+CIT, Desktop Support and Microsoft Network Administration, 
+Certificate of Technology
+
+=====================================================================================================================
+First Semester					Credits		Class Time 		  CRN 		Room
+=====================================================================================================================
+ITSC 1305 - Introduction to PC Operating Systems    3		M,W (9 Am-10:30 Am)	  013051	B1-R102
+ITSC 1309 - Integrated Software Applications I      3		T,Th (8:30 Am-10 Am)	  013091	B2-R203
+ITNW 1325 - Fundamentals of Networking Technologies 3		M,W (10:45 Am- 12:15 Pm)  013251	B2-R201	
+ITSE 1329 - Programming Logic and Design	    3		T,Th (10.15 Am- 11:45 Am) 013291	B3-R100 
+
+=====================================================================================================================
+Second Semester					Credits		Class Time 		  CRN 		Room
+=====================================================================================================================
+ITSC 1325 - Personal Computer Hardware		    3		M,W (11 Am-12:30 Pm)	  013251	B1-R202
+ITNW 1354 - Implementing and Supporting Servers     3		T,Th (9:30 Am-11 Am)	  013541	B2-R301
+ITSC 2339 - Personal Computer Help Desk		    3		M,W (1 Pm- 2:30 Pm)  	  023391	B2-R101
+ITSW 1307 - Introduction to Database		    3		T,Th (10.15 Am- 11:45 Am) 013071	B3-R105 
+
+======================================================================================================================
+Third Semester					Credits		Class Time 		  CRN 		Room
+======================================================================================================================
+ITNW 1313 - Computer Virtualization		       3	M,W (10 Am-12:30 Pm)	  013131	B1-R102
+ITSY 1342 - Information Technology Security	       3  	T,Th (1:30 Pm-2:45 Pm)	  013421	B2-R203
+ITSC 1321 - Intermediate PC Operating Systems	       3	M,W (1 Pm- 2:30 Pm)  	  013211	B2-R201
+ITSC 2364 - Computer and Information Sciences, General 3	T,Th (10.15 Am- 11:45 Am) 023641	B3-R100 
+
+=====================================================================================================================
+CIT, Desktop Support and Microsoft Network Administration, 
+Certificate of Technology				36
+=====================================================================================================================

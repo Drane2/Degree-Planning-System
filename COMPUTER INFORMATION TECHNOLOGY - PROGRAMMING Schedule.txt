@@ -1,0 +1,24 @@
+OMPUTER INFORMATION TECHNOLOGY - PROGRAMMING
+CERTIFICATE
+
+=============================================================================================================================
+First Semester					Credits		Class Time 		  CRN 		Room
+=============================================================================================================================
+BCIS 1305 - Business Computer Applications	3		M,W (9 Am-10:30 Am)	  013051	B1-R100
+ITNW 1325 - Fundamentals of Networking		3		T,Th (8:30 Am-10 Am)	  013251	B2-R200
+ITNW 1358 - Network+				3		M,W (10:45 Am- 12:15 Pm)  013581	B2-R205
+ITSE 1407 - Introduction C++ Programming	4		T,Th (10.15 Am- 11:45 Am) 014071	B3-R108 
+ITSE 1431 - Introduction to Visual BASIC Programming 4		F (10.15 Am- 11:45 Am) 	  014311	B3-R110
+
+==============================================================================================================================
+Second Semester					Credits		Class Time 		  CRN 		Room
+==============================================================================================================================
+ITSE 2337 – Assembly Language Programming	3		M,W (11 Am-12:30 Pm)	  023371	B1-R208
+IMED 2415 – Web Design II			4		T,Th (9:30 Am-11 Am)	  024151	B2-R301
+ITSE 2417 – Java Programming			4		M,W (1 Pm- 2:30 Pm)  	  024171	B2-R112
+ITSW 1404 – Introduction to Spreadsheets	4		T,Th (10.15 Am- 11:45 Am) 014041	B3-R302 
+
+==============================================================================================================================
+COMPUTER INFORMATION TECHNOLOGY - PROGRAMMING 
+CERTIFICATE – CREDIT HOURS			32
+==============================================================================================================================

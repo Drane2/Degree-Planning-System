@@ -1,0 +1,31 @@
+CIT, Network Administration Cisco Specialty,
+Certificate of Technology
+
+=============================================================================================================================
+First Semester						Credits		Class Time 		  CRN 		Room
+=============================================================================================================================
+ITSC 1305 - Introduction to PC Operating Systems	3		M,W (9 Am-10:30 Am)	  013051	B1-R111
+ITSC 1309 - Integrated Software Applications I		3		T,Th (8:30 Am-10 Am)	  013091	B2-R312
+ITCC 1314 - CCNA 1: Introduction to Networks		3		M,W (10:45 Am- 12:15 Pm)  013141	B2-R110
+ITSC 1325 - Personal Computer Hardware			3		T,Th (10.15 Am- 11:45 Am) 013251	B3-R206
+
+==============================================================================================================================
+Second Semester						Credits		Class Time 		  CRN 		Room
+==============================================================================================================================
+ITCC 1440 - CCNA 2: Routing and Switching Essentials	4		M,W (11 Am-12:30 Pm)	  014401	B1-R221
+ITSC 1321 - Intermediate PC Operating Systems		3		T,Th (9:30 Am-11 Am)	  013211	B2-R332
+ITNW 1354 - Implementing and Supporting Servers		3		M,W (1 Pm- 2:30 Pm)  	  013541	B2-R215
+ITSW 1307 - Introduction to Database			3		T,Th (10.15 Am- 11:45 Am) 013071	B3-R302
+
+==============================================================================================================================
+Third Semester						Credits		Class Time 		  CRN 		Room
+==============================================================================================================================
+ITCC 2412 - CCNA 3: Scaling Networks			4		M,W (10 Am-12:30 Pm)	  024121	B1-R204
+ITCC 2413 - CCNA 4: Connecting Networks			4		T,Th (1:30 Pm-2:45 Pm)	  024131	B2-R304
+ITSE 1329 - Programming Logic and Design		3		M,W (1 Pm- 2:30 Pm)  	  013291	B2-R113
+
+==============================================================================================================================
+CIT, Network Administration Cisco Specialty,
+Certificate of Technology 				36
+==============================================================================================================================
+	
