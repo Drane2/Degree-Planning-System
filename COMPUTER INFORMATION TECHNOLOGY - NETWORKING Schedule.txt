@@ -1,0 +1,23 @@
+COMPUTER INFORMATION TECHNOLOGY - NETWORKING
+CERTIFICATE 
+
+===========================================================================================================================
+First Semester					Credits		Class Time 		  CRN 		Room
+==========================================================================================================================
+BCIS 1305 - Business Computer Applications	3		M,W (9 Am-10:30 Am)	  013051	B1-R100
+ITMT 1358 - Windows Client Operating System	3		T,Th (8:30 Am-10 Am)	  013581	B2-R321
+ITNW 1325 - Fundamentals of Networking		3		M,W (10:45 Am- 12:15 Pm)  013251	B2-R208
+ITNW 1358 - Network+				3		T,Th (10.15 Am- 11:45 Am) 013581	B3-R301
+
+==========================================================================================================================
+Second Semester					Credits		Class Time 		  CRN 		Room
+==========================================================================================================================
+ITMT 2301 - Windows Server 2008 Network		   3		M,W (11 Am-12:30 Pm)	  023011	B1-R220
+ITMT 2302 - Windows Server 2008 AD Configuration   3		T,Th (9:30 Am-11 Am)	  023021	B2-R215
+ITMT 1357 - Administering Windows Operating System 3		M,W (1 Pm- 2:30 Pm)  	  013571	B2-R202
+ITNW 1313 - Computer Virtualization		   3		T,Th (10.15 Am- 11:45 Am) 013131	B3-R300
+
+==========================================================================================================================
+COMPUTER INFORMATION TECHNOLOGY - NETWORKING 
+CERTIFICATE – CREDIT HOURS			24
+==========================================================================================================================

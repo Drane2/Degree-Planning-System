@@ -1,20 +1,39 @@
-Jonathan West	
-Harry Potter	
-Ricardo Perez	
-Harmony White	
-Griffin Miller	
-Edward Moore	
-Edmond Smith	
-Weston Thomas	
-Astrid Williams	
-Frank Martin	
-Perry Hotter	
-Jade Johnson	
-Turnip Head	
-Nathan David	
-Garry Snail	
-Kate Walker	
-Janice Hall	
-Sarah Sahara	
-Carl Clark	
-Drake Bell	
+Jonathan West	NETWORKING	Business Computer Application, Windows Client Operating System, Fundamentals of Networking, Network+
+
+Harry Potter	NETWORKING	Windows Server 2008 Network, Windows Server 2008 AD Configuration, Administering Windows Operating System, Computer Visualization
+
+Ricardo Perez	PROGRAMMING	Business Computer Application, Fundamentals of Networking	Network+	, Introduction C++ Programming, Introduction to Visual BASIC Programming
+
+Harmony White	PROGRAMMING	Assembly Language Programming, Web Design II, Java Programming, Introduction to Spreadsheets
+
+Griffin Miller	Network Administration Cisco Specialty	Introduction to PC Operating Systems, Integrated Software Applications I, CCNA 1: Introduction to Networks, Personal Computer Hardware
+
+Edward Moore	Network Administration Cisco Specialty	CCNA 2: Routing and Switching Essentials, Intermediate PC Operating Systems, Implementing and Supporting Severs, Introduction to Database
+
+Edmond Smith	Network Administration Cisco Specialty	CCNA 3: Scaling Networks, CCNA 4: Connecting Networks, Programming Logic and Design
+
+Weston Thomas	Introductory Game Design and Development	Level Design, Introduction to Game Design and Development, Introduction to C++ Programming, Programming Logic and Design, Interface Design with Photoshop
+
+Astrid Williams	Introductory Game Design and Development	Level Design, Introduction to Game Design and Development, Introduction to C++ Programming, Programming Logic and Design, Interface Design with Photoshop
+
+Frank Martin	Information Technology Cyber Security Specialty	Introduction to PC Operating Systems, Integrated Software Applications I, CCNA 1: Introduction to Networks, Information Technology Security
+
+Perry Hotter	Information Technology Cyber Security Specialty	Implementing and Supporting Servers, UNIX Operating Systems I, Programming Logic and Design, Operating System Security
+
+Jade Johnson	Information Technology Cyber Security Specialty	Firewalls and Network Security, Security Management Practices, Introduction to Database
+
+Turnip Head	Desktop Support and Microsoft Network Administration	Introduction to PC Operating Systems, Integrated Software Applications I, Fundamentals of Networking Technologies, Programming Logic and Design
+
+Nathan David	Desktop Support and Microsoft Network Administration	Personal Computer Hardware, Implementing and Supporting Servers, Personal Computer Help Desk, Introduction to Database
+
+Garry Snail	Desktop Support and Microsoft Network Administration	Computer Visualization, Information Technology Security, Intermediate PC Operating Systems, Computer and Information Sciences, General
+
+Kate Walker	Desktop Support and Microsoft Network Administration	Personal Computer Hardware, Implementing and Supporting Servers, Personal Computer Help Desk, Introduction to Database
+
+Janice Hall	Desktop Support and Microsoft Network Administration	Computer Visualization, Information Technology Security, Intermediate PC Operating Systems, Computer and Information Sciences, General
+
+Sarah Sahara	Introductory Game Design and Development	Level Design, Introduction to Game Design and Development, Introduction to C++ Programming, Programming Logic and Design, Interface Design with Photoshop
+
+Carl Clark	Introductory Game Design and Development	Level Design, Introduction to Game Design and Development, Introduction to C++ Programming, Programming Logic and Design, Interface Design with Photoshop
+
+Drake Bell	NETWORKING	Windows Server 2008 Network, Windows Server 2008 AD Configuration, Administering Windows Operating System, Computer Visualization

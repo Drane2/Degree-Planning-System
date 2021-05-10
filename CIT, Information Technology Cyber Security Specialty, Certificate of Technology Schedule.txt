@@ -1,0 +1,31 @@
+CIT, Information Technology Cyber Security Specialty,
+Certificate of Technology
+
+==========================================================================================================================
+Fisrt Semseter						Credits		Class Time 		  CRN 		Room
+==========================================================================================================================
+ITSC 1305 - Introduction to PC Operating Systems	3		M,W (9 Am-10:30 Am)	  013051	B1-R204
+ITSC 1309 - Integrated Software Applications I		3		T,Th (8:30 Am-10 Am)	  013091	B2-R303
+ITCC 1314 - CCNA 1: Introduction to Networks		3		M,W (10:45 Am- 12:15 Pm)  013141	B2-R105
+ITSY 1342 - Information Technology Security		3		T,Th (10.15 Am- 11:45 Am) 013421	B3-R108
+
+==========================================================================================================================
+Second Semester						Credits		Class Time 		  CRN 		Room
+==========================================================================================================================
+ITNW 1354 - Implementing and Supporting Servers		3		M,W (11 Am-12:30 Pm)	  013541	B1-R108
+ITSC 1307 - UNIX Operating System I			3		T,Th (9:30 Am-11 Am)	  013071	B2-R305
+ITSE 1329 - Programming Logic and Design		3		M,W (1 Pm- 2:30 Pm)  	  013291	B2-R210
+ITSY 2300 - Operating System Security			3		T,Th (10.15 Am- 11:45 Am) 023001	B3-R115 
+
+
+==========================================================================================================================
+Third Semester						Credits		Class Time 		  CRN 		Room
+==========================================================================================================================
+ITSY 2301 - Firewalls and Network Security		3		M,W (10 Am-12:30 Pm)	  013131	B1-R122
+ITSY 2341 - Security Management Practices		3		T,Th (1:30 Pm-2:45 Pm)	  013421	B2-R223
+ITSW 1307 - Introduction to Database			3		M,W (1 Pm- 2:30 Pm)  	  013211	B2-R211
+
+==========================================================================================================================
+CIT, Information Technology Cyber Security Specialty,
+Certificate of Technology				33
+==========================================================================================================================
